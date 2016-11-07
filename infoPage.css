@@ -1,0 +1,32 @@
+#title {
+	color: lightblue;
+	text-align: center;
+	font-size: 36pt;
+	border: thin black solid;
+}
+
+#header {
+	color: darkgreen;
+	font-size: 30pt;
+}
+
+#pics {
+	width: 40%;
+	float: left;
+}
+
+#map {
+	float: right;
+	width: 60%;
+}
+
+#info_header {
+	text-align: left;
+}
+
+#twitter {
+	font-size: 18pt;
+	font-color: darkblue;
+	width:500px;
+	border: thick black solid;
+}
