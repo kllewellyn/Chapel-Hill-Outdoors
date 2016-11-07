@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.box{
+
+  padding:200px;
+  color:white;
+  font-size:60px;
+  align: center;
+
+}
+
+#pic1{
+  background-image: url("hikingPic.jpg");
+
+
+}
+
+#pic2{
+  background-image: url("bikingPic2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#pic3{
+  background-image: url("campingPic2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#pic4{
+  background-image: url("discPic.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
